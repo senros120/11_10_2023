@@ -1,0 +1,1 @@
+print ("jabłko \ntruskawka \narbuz")
